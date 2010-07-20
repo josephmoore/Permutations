@@ -1,0 +1,17 @@
+I wrote the software "Permutations" for the show Brion Gysin: Dream Machine on display at The New Museum for Contemporary Art between July 7th and October 3rd 2010. This software is a "version" of the program developed by Ian Sommerville and Gysin in 1960 to permute poems. The original program ran on a Honeywell Series 200 model 120 computer. The version I wrote uses a modern programming language and hardware. While the materials used to produce the original permutation poems are in many ways quite different from my own, I have attempted to create a realization of the work that is sensitive to the original and its process. At the same time, it is a new version, a collaboration done in the spirit of an artist whose work provides a critique of conventional notions of authorship. 
+
+I believe it is in the spirit of the work to share copies of the software I wrote under the GPL copyleft license. This license gives anyone the ability to download, run, alter, and share the software. The one requirement is that all future versions must be released under the GPL license as well.
+
+In closing, I want to thank The New Museum and specifically Kraus Family Curator Laura Hoptman and Assistant Curator Amy Mackie for their trust and support in completing this project.
+
+Joseph Moore 2010
+
+=========================================================================================
+
+Works thank you for your collaboration, but they can also create themselves on their own; thus:Come to free the words 
+To free the words come 
+Free the words to come 
+The words come to free 
+Words come to free thee!
+The possible permutations are 5x4x3x2x1=120 lines. Therefore a 120-line poem without an author. Where is the poet Brion Gysin?
+Brion Gysin

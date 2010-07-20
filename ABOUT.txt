@@ -2,7 +2,7 @@ I wrote the software "Permutations" for the show Brion Gysin: Dream Machine on d
 
 I believe it is in the spirit of the work to share copies of the software I wrote under the GPL copyleft license. This license gives anyone the ability to download, run, alter, and share the software. The one requirement is that all future versions must be released under the GPL license as well.
 
-In closing, I want to thank The New Museum and specifically Kraus Family Curator Laura Hoptman and Assistant Curator Amy Mackie for their trust and support in completing this project.
+In closing, I want to thank The New Museum and specifically Kraus Family Curator Laura Hoptman and Assistant Curator Amy Mackie for their trust and support in completing this project.Thanks also to Doron Ben-Avraham, Manager of Information Technology at The New Museum for his help and advocacy
 
 Joseph Moore 2010
 
